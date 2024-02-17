@@ -21,6 +21,6 @@ Make it so others cannot steal from you!
 
 import os
 
-secret_value = os.environ['SECRET_NAME']
+secret_value = os.environ['SECRET_ENV']
 
 ```
